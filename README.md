@@ -14,3 +14,4 @@ then it will click the first link in each article until one of the following con
 - The articles start to repeat
 - Article has no links present
 - It reaches it's target URL which is: https://en.wikipedia.org/wiki/Philosophy
+
