@@ -4,4 +4,4 @@ All the modules are of python3
 - install requests module
 
 run with command:
-	python3 <filename>
+	python3 {filename}
