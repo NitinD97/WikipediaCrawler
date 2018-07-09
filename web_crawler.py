@@ -45,7 +45,7 @@ def find_first_link(url):
 
 
 # Any random url to start
-# https://en.wikipedia.org/wiki/American_Board_of_Medical_Specialties this URL works
+# start_url = "https://en.wikipedia.org/wiki/American_Board_of_Medical_Specialties" #this URL works
 start_url = "https://en.wikipedia.org/wiki/Special:Random"
 target_url = "https://en.wikipedia.org/wiki/Philosophy"
 # Array of URL's
